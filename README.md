@@ -82,3 +82,5 @@ python preprocess.py
 ```bash
 python train.py
 ```
+### Notes
+This repository follows reproducible research practices and emphasizes both predictive performance and model interpretability, aligning with workflows commonly used in computational biology research.
