@@ -48,6 +48,7 @@ The following visual outputs are generated and saved in the `results/` folder:
 ---
 
 ## 📁 Project Structure
+```
 cell-line-growth-prediction/
 │
 ├── data/
@@ -65,6 +66,7 @@ cell-line-growth-prediction/
 │
 ├── requirements.txt
 └── README.md
+```
 ## How to Run
 
 ### 1 Install dependencies
